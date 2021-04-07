@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    background-image: url("https://miro.medium.com/max/3840/1*jQ8yqiVywH2_K8Ghlz-Esw.jpeg");
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.formularioLogin{
+    margin-top: 10%;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.formularioLogin label{
+    color: white;
+}
